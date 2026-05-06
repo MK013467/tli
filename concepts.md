@@ -1,1 +1,2 @@
-Horizontal Pod Autoscaler (HPA) in AWS automatically scales Amazon EKS (Kubernetes) pod replicas based on CPU/memory usage or custom metrics, ensuring optimal performance and cost-efficiency. It enables applications to handle traffic fluctuations by scaling out (adding pods) or in (removing pods) dynamically, usually managed via the Metrics Server on EKS
+- Horizontal Pod Autoscaler (HPA) in AWS automatically scales Amazon EKS (Kubernetes) pod replicas based on CPU/memory usage or custom metrics, ensuring optimal performance and cost-efficiency. It enables applications to handle traffic fluctuations by scaling out (adding pods) or in (removing pods) dynamically, usually managed via the Metrics Server on EKS
+

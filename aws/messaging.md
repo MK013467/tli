@@ -36,3 +36,9 @@ If 1 million logs per second:
 - Buffers for 60 seconds then uploads at once
 - Minimizes S3 PUT requests
 - Fully managed 
+
+
+## SQS Message Group
+
+- Gurantee an ordering per group of messages for FIFO Queue.
+- Can think of it as having FIFO queue per message group.
